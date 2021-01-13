@@ -327,7 +327,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "yuuk.kicad_pro",
+    "filename": "jiu.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -423,7 +423,7 @@
   },
   "sheets": [
     [
-      "18681f85-d06a-4567-933f-e90d9acdcd47",
+      "ccbf1168-dcf2-4f53-a045-619796449c68",
       ""
     ]
   ],

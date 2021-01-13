@@ -1,4 +1,4 @@
-19002737374180863
+19002760373301863
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -82159,6 +82159,13 @@ Through hole pin header THT 1x14 2.54mm single row
 6
 6
 acheron_Connectors
+PinHeader_2x4_P2.54mm_Vertical
+Through hole straight pin header, 1x14, 2.54mm pitch, single row
+Through hole pin header THT 1x14 2.54mm single row
+0
+8
+8
+acheron_Connectors
 PinHeader_2x5_P2.54mm_Vertical
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
@@ -82179,6 +82186,13 @@ Through hole pin header THT 1x14 2.54mm single row
 0
 16
 16
+acheron_Connectors
+PinHeader_2x9_P2.54mm_Vertical
+Through hole straight pin header, 2x8, 2.54mm pitch, dual row
+Through hole pin header THT 1x14 2.54mm single row
+0
+18
+18
 acheron_Connectors
 PinHeader_2x10_P2.54mm_Vertical
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
@@ -82606,17 +82620,3 @@ MX_ISOEnter_LED
 0
 4
 2
-jiu_graphics
-jiu_logo_15.9x15.0mm
-
-
-0
-1
-1
-jiu_graphics
-jiu_logo_80x75.6
-
-
-0
-0
-0

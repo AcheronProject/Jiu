@@ -61,10 +61,10 @@
       38
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
-    "filename": "yuuk.kicad_prl",
+    "filename": "jiu.kicad_prl",
     "version": 2
   },
   "project": {
