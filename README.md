@@ -1,5 +1,7 @@
 # Jiu PCB
 
+![alt text](https://raw.githubusercontent.com/Gondolindrim/acheronLibrary/master/graphics/acheronReadme.png "Acheron Logo")
+
 *Jiu* is a replacement PCB for the Kyuu keyboard by Quantrik. The name is a reference to the original name as *Kyuu* is the word for the algarism nine in japanese and *Jiu* expresses the same algarism in chinese.
 
 Jiu runs with an STM32F072CxT MCU, and is QMK and VIA compatible.
