@@ -17,3 +17,7 @@ The only fundamental alteration made by me to the files was a porting to a newer
 ## License
 
 These files are licensed under the Creative Commons 4.0 Attribution Non-Commercial Share-Alike license. The modifications made further are licensed under the same license, which is available in the `LICENSE.md` file in this folder.
+
+## Renders
+
+![Jiu renders](https://user-images.githubusercontent.com/39470766/104542837-03963b80-5603-11eb-85f7-9552c5ab0cf2.jpg)
