@@ -390,7 +390,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../release/jiu.step",
+      "step": "../release/jiu_v1.1.6.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
