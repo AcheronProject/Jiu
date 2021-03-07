@@ -46,28 +46,6 @@ It is of utmost importance to note that the Jiu files are not released under the
 
 Prototypes for [version v1.1.8/v1.1.8](https://github.com/AcheronProject/Jiu/releases/tag/v1.1.8%2Fv1.1.8), kindly tested and paid for by user jubei.
 
-## Technical information
-
-- Layout size: 65%
-- Compatible switches: MX-like only, solderable
-- Lighting: none
-- Microcontroller: STM32F072CxT6 (x can be either 8 or B)
-- Connector: USB Type C on the top side
-- Firmware compatibility: QMK (with VIA support)
-- Protection hardware:
- * USB data lines and power rail ESD suppressing
- * USB power overvoltage protection
- * Enclosure grounding pad
- * Overcurrent protection
- * LDO crowbar diode
- * EMI suppression (shielding ferrite bead)
-- Current release: v1.1.8/v1.1.8
-- Designer: Gondolindrim
-- License: CC4.0-AT-NC-SA
-
-
-## Renders
-
 ![Jiu prototype picture 1](https://raw.githubusercontent.com/Gondolindrim/file_hosting/main/jiu_prototype_pictures/AL8U0zt.jpg)
 ![Jiu prototype picture 2](https://raw.githubusercontent.com/Gondolindrim/file_hosting/main/jiu_prototype_pictures/bhfUoML.jpg)
 ![Jiu prototype picture 3](https://raw.githubusercontent.com/Gondolindrim/file_hosting/main/jiu_prototype_pictures/cRJ9OSM.jpg)
