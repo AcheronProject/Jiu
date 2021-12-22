@@ -14,3 +14,9 @@
 [submodule "pcb_kicad_files/libraries/acheron_Symbols"]
 	path = pcb_kicad_files/libraries/acheron_Symbols
 	url = git@github.com:AcheronProject/acheron_Symbols.git
+[submodule "pcb_kicad_files/libraries/acheron_MX_soldermask.pretty"]
+	path = pcb_kicad_files/libraries/acheron_MX_soldermask.pretty
+	url = git@github.com:AcheronProject/acheron_MX_soldermask.pretty.git
+[submodule "pcb_kicad_files/libraries/acheron_Components.pretty"]
+	path = pcb_kicad_files/libraries/acheron_Components.pretty
+	url = git@github.com:AcheronProject/acheron_Components.pretty.git
