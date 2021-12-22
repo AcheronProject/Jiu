@@ -1,1 +1,16 @@
 
+[submodule "pcb_kicad_files/libraries/acheron_3D"]
+	path = pcb_kicad_files/libraries/acheron_3D
+	url = git@github.com:AcheronProject/acheron_3D.git
+[submodule "pcb_kicad_files/libraries/acheron_Connectors.pretty"]
+	path = pcb_kicad_files/libraries/acheron_Connectors.pretty
+	url = git@github.com:AcheronProject/acheron_Connectors.pretty.git
+[submodule "pcb_kicad_files/libraries/acheron_Hardware.pretty"]
+	path = pcb_kicad_files/libraries/acheron_Hardware.pretty
+	url = git@github.com:AcheronProject/acheron_Hardware.pretty.git
+[submodule "pcb_kicad_files/libraries/acheron_Graphics.pretty"]
+	path = pcb_kicad_files/libraries/acheron_Graphics.pretty
+	url = git@github.com:AcheronProject/acheron_Graphics.pretty.git
+[submodule "pcb_kicad_files/libraries/acheron_Symbols"]
+	path = pcb_kicad_files/libraries/acheron_Symbols
+	url = git@github.com:AcheronProject/acheron_Symbols.git
